@@ -1,4 +1,5 @@
 %s/\s\+$//e
+
 #include <unistd.h>
 
 /**
