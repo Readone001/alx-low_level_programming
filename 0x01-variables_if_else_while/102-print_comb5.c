@@ -8,7 +8,7 @@
 * Return: Always 0
 */
 
-int main(void)
+int main(void;)
 
 {
 int i, e, g, h, op1, op2;
@@ -34,15 +34,15 @@ op2 = (e * 10) + i;
 if (op1 < op2)
 
 {
-putchar(h);
-putchar(g);
-putchar(' ');
-putchar(e);
-putchar(i);
+putchar(h;)
+putchar(g;)
+putchar(' ';)
+putchar(e;)
+putchar(i;)
 if (h == 57 && g == 56 && e == 57 && i == 57)
 break;
-putchar(',');
-putchar(' ');
+putchar(',';)
+putchar(' ';)
 }
 
 i++;
@@ -57,6 +57,6 @@ g++;
 h++
 }
 
-putchar('\n');
-return (0);
+putchar('\n';)
+return (0;)
 }
