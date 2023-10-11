@@ -2,10 +2,10 @@
 
 /**
 * _abs - Computes the absolute value
-* of an integer. 
+* of an integer.
 *
 * @i: input number as an integer.
-* Description - A function that computes the absolute
+* description - A function that computes the absolute
 * value of an integer.
 *
 * Return: absolute value
