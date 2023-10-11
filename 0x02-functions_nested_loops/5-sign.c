@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
 * print_sign - Determines if the input number
 * greater, equal or less than zero.
@@ -7,7 +8,7 @@
 * @n: The input number as an integer.
 * Description: This function prints the sign of the
 * number.
-* 
+*
 * Return: 1 if number is positive, o if number is 0,
 * or -1 if number is negative.
 */
