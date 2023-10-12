@@ -30,7 +30,7 @@ _putchar(' ');
 }
 
 for (tr = 0; tr <= ro; tr++)
-			
+
 {
 _putchar('#');
 }
