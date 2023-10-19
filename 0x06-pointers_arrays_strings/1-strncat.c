@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _strncat - function to concatenate strings 
+* _strncat - function to concatenate strings
 * @dest : pointer
 * @src : pointer
 * @n : variable integer
